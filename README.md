@@ -1,5 +1,4 @@
-![image](https://github.com/psungg/SQL-Let-me-sell/assets/158567231/bd51fcae-fe0d-4fe9-8f41-56b5591bf18e)# SQL-Let-me-sell
-
+# SQL-Let me sell
 ## Relationship Diagram
 ![Relationship Diagram](https://github.com/psungg/SQL-Let-me-sell/blob/main/Images/Relationship_Diagram.png)
 
